@@ -1,6 +1,6 @@
 ﻿using HR.LeaveManagement.Application.DTO.Common;
 
-namespace HR.LeaveManagement.Application.DTO
+namespace HR.LeaveManagement.Application.DTO.LeaveType
 {
     public class LeaveTypeDto : BaseDto
     {
